@@ -473,3 +473,4 @@ PRODUCT_COPY_FILES +=   $(LOCAL_PATH)/proprietary/lib/lib_Samsung_AudioZoom_v102
 PRODUCT_COPY_FILES +=   $(LOCAL_PATH)/proprietary/lib/libsamsungRecord_zoom.so:system/lib/libsamsungRecord_zoom.so
 PRODUCT_COPY_FILES +=   $(LOCAL_PATH)/proprietary/lib/libSamsungPostProcessConvertor.so:system/lib/libSamsungPostProcessConvertor.so
 PRODUCT_COPY_FILES +=   $(LOCAL_PATH)/proprietary/lib/libsecaudioinfo.so:system/lib/libsecaudioinfo.so
+PRODUCT_COPY_FILES +=   $(LOCAL_PATH)/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so
